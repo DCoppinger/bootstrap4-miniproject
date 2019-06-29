@@ -24,7 +24,7 @@ border-color: #eec802;
 }
 
 .callout-container {
-    height: 100vh;
+    height: 50vh;
 
     background: url("../images/whiskey-background.jpg") no-repeat bottom right fixed;
     -webkit-background-size: cover;
